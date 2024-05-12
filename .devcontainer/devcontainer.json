@@ -29,7 +29,8 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-toolsai.jupyter",
-				"tensorBoard.tensorboard"
+				"tensorBoard.tensorboard",
+				"charliermarsh.ruff"
 			]
 		}
 	}
